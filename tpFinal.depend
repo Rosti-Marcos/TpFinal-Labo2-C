@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1636837967 source:c:\users\1\desktop\tpfinal\cliente.c
+	"cliente.h"
+
+1636837968 c:\users\1\desktop\tpfinal\cliente.h
+
+1637095718 source:c:\users\1\desktop\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1636921859 c:\users\1\desktop\tpfinal\clientes.h
+	"cliente.h"
+	<string.h>
+
+1637098306 source:c:\users\1\desktop\tpfinal\consumo.c
+	"consumo.h"
+
+1637098313 c:\users\1\desktop\tpfinal\consumo.h
+
+1637020484 source:c:\users\1\desktop\tpfinal\listaconsumos.c
+	<stdlib.h>
+	<stdio.h>
+	"listaConsumos.h"
+
+1636930265 c:\users\1\desktop\tpfinal\listaconsumos.h
+	"consumos.h"
+
+1636901167 c:\users\1\desktop\tpfinal\consumos.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"consumo.h"
+	"cliente.h"
+
+1637369172 source:c:\users\1\desktop\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolDeListas.h"
+
+1637368270 c:\users\1\desktop\tpfinal\arboldelistas.h
+	"listaConsumos.h"
+	"clientes.h"
+
+1637368827 source:c:\users\1\desktop\tpfinal\arboldelistas.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolDeListas.h"
+	"string.h"
+	"switchMenu.h"
+
+1636901168 source:c:\users\1\desktop\tpfinal\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos.h"
+
+1637099698 source:c:\users\1\desktop\tpfinal\menu.c
+	"menu.h"
+
+1637369148 source:c:\users\1\desktop\tpfinal\switchmenu.c
+	"switchMenu.h"
+
+1637027020 c:\users\1\desktop\tpfinal\menu.h
+	"arbolDeListas.h"
+	"listaConsumos.h"
+
+1637368311 c:\users\1\desktop\tpfinal\switchmenu.h
+	"menu.h"
+
+1637609400 source:c:\users\1\desktop\tpfinalultimo\tpfinal\arboldelistas.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolDeListas.h"
+	"string.h"
+	"switchMenu.h"
+
+1637603348 c:\users\1\desktop\tpfinalultimo\tpfinal\arboldelistas.h
+	"listaConsumos.h"
+	"clientes.h"
+
+1637614009 c:\users\1\desktop\tpfinalultimo\tpfinal\listaconsumos.h
+	"consumos.h"
+
+1636901167 c:\users\1\desktop\tpfinalultimo\tpfinal\consumos.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"consumo.h"
+	"cliente.h"
+
+1637609299 c:\users\1\desktop\tpfinalultimo\tpfinal\consumo.h
+
+1636837968 c:\users\1\desktop\tpfinalultimo\tpfinal\cliente.h
+
+1636921859 c:\users\1\desktop\tpfinalultimo\tpfinal\clientes.h
+	"cliente.h"
+	<string.h>
+
+1637614990 c:\users\1\desktop\tpfinalultimo\tpfinal\switchmenu.h
+	"menu.h"
+
+1637614261 c:\users\1\desktop\tpfinalultimo\tpfinal\menu.h
+	"arbolDeListas.h"
+	"listaConsumos.h"
+
+1636837967 source:c:\users\1\desktop\tpfinalultimo\tpfinal\cliente.c
+	"cliente.h"
+
+1637095718 source:c:\users\1\desktop\tpfinalultimo\tpfinal\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1637609400 source:c:\users\1\desktop\tpfinalultimo\tpfinal\consumo.c
+	"consumo.h"
+
+1637614410 source:c:\users\1\desktop\tpfinalultimo\tpfinal\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"consumos.h"
+
+1637614632 source:c:\users\1\desktop\tpfinalultimo\tpfinal\listaconsumos.c
+	<stdlib.h>
+	<stdio.h>
+	"listaConsumos.h"
+
+1637624277 source:c:\users\1\desktop\tpfinalultimo\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbolDeListas.h"
+
+1637614410 source:c:\users\1\desktop\tpfinalultimo\tpfinal\menu.c
+	"menu.h"
+
+1637614990 source:c:\users\1\desktop\tpfinalultimo\tpfinal\switchmenu.c
+	"switchMenu.h"
+
